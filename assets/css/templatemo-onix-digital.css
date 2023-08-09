@@ -1720,6 +1720,7 @@ contact
   font-weight: 400;
   line-height: 25px;
   text-transform: none;
+  padding-top: 10px
 }
 
 form#contact {
