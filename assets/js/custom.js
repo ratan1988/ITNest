@@ -107,9 +107,9 @@
           $('.menu-trigger').removeClass('active');
           $('.header-area .nav').slideUp(200);  
         }       
-        // $('html,body').animate({
-        //   scrollTop: (target.offset().top) + 1
-        // }, 700);
+        $('html,body').animate({
+          scrollTop: (target.offset().top) + 1
+        }, 700);
         return false;
       }
     }
